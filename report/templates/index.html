@@ -1,0 +1,88 @@
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<script type="text/javascript" src="{{ STATIC_URL}}js/jsapi"></script>
+<script src="{{ STATIC_URL}}js/jquery1.10.js"></script>
+<link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/app.css">
+</head>
+<body>
+<form id="form1" action="#" method="post">{% csrf_token %}
+<input type="hidden" id="type" name="type">
+<div class="container">		
+	<div class="header">
+		<a href="/about"><h2>Sikshana</h2></a><br>
+		<h5>Quality Education for Every Child</h5>	
+		<div class="form-control" id='topframe' name='topframe' style="align:center;">		
+			<select id='district' name='district' onchange='filldropdown("block",this.value); getdata("","district");'>
+			<option>District</option>
+			</select>&nbsp;
+			<select id='block' name='block' onchange='filldropdown("cluster",this.value); getdata("","block");'>
+			<option>Block</option>
+			</select>&nbsp;
+			<select id='cluster' name='cluster' onchange='filldropdown("school",this.value); getdata("","cluster");'>
+			<option>Cluster</option>
+			</select>&nbsp;
+			<select style="width:140px;" id='school' name='school' onchange='getdata("","school");'>
+			<option>School</option>
+			</select>&nbsp;
+			<br><br>
+		</div>
+	</div>	
+		<div class="count" id="count" style="display:none;">
+			<input style="width:60px; background-color:#F5F5F5; box-shadow: 2px 2px 5px #778899; 
+  			border-radius: 5px; border: 1px solid #ADD8E6; border-top-right-radius: 0px; border-bottom-right-radius: 0px; padding: 1px; margin-left:0px;" type='button' onclick='drawChart("math",math)' value='Math'>
+        	
+        	<input style="width:75px; background-color:#F5F5F5; box-shadow: 2px 2px 5px #778899; 
+  			border-radius: 5px; border: 1px solid #ADD8E6; border-top-left-radius:0px; border-bottom-left-radius: 0px; padding: 1px; margin-left:-4px;" type='button' onclick='drawChart("kannada",kannada)' value='Kannada'>
+        	
+        	<input style="width:95px; background-color:#F5F5F5; box-shadow: 2px 2px 5px #778899; 
+  			border-radius: 5px; border: 1px solid #ADD8E6; padding: 1px; margin-left:20px; visibility:hidden;" id='alldistrict' type='button' onclick='getdata("","All District")' value='All District' >
+
+        	<label style="margin-left:760px;">Class : </label><select style="width:50px;" id='clas' name='clas' onchange="getdata(this.value,'');">
+		
+            <input type="image" src="{{ STATIC_URL }}css/1391795212_229119.ico" alt="button" id="change_chart" name="change_bar_chart" onclick="javascript:drawChart('',def); return false;" style="height:30px; width:30px; margin-left:1200px; margin-top:-30px;"  value="Table-Chart">
+		</div>	
+		
+		<div class="bar_chart" id="bar_chart_div" style=" display:none; width: 1280px; height: 450px;"></div>	
+		<div class="table_chart" id="table_chart_div" style=" display:none; width: 800px; height: 350px;"></div>
+		<p class="para">*2011-12: Students were tested only at minimum reading level, minimum and average maths level  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  #overall: Represents students who acquired basic ASER skills</p>
+	<div class="footer">
+    	<img src="{{ STATIC_URL }}css/favicon.ico" style="align:left; height:40px; margin-bottom:-40px; margin-top:8px;"><p style="text-align: center;">&copy;Karnataka Learning Partnership 2014</p>
+	</div>
+</div>
+</form>
+<script type="text/javascript">
+var dist=new Array();
+var blck=new Array();
+var clst=new Array();
+var schl=new Array();
+var clas=new Array();
+var math=new Array();
+var kannada=new Array();
+
+{% for row in district %}
+    dist.push('{{ row }}');
+{% endfor%}
+{% for row in block %}
+    blck.push('{{ row }}'.split('|'));
+{% endfor%}
+{% for row in cluster %}
+    clst.push('{{ row }}'.split('|'));
+{% endfor%}
+{% for row in school_name %}
+    schl.push('{{ row }}'.split('|'));
+{% endfor %}
+{% for row in clas %}
+    clas.push('{{ row }}');
+{% endfor %}
+{% for row in math %}
+    math.push('{{ row }}');
+{% endfor %}
+{% for row in kannada %}
+    kannada.push('{{ row }}');
+{% endfor %}
+</script>
+<script src="{{ STATIC_URL}}js/report.js" type="text/javascript"></script>
+
+</body>
+</html>

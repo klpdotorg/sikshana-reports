@@ -1,0 +1,399 @@
+district_name|block_name|cluster_name|school_id|sch_name|medium_description|percentmathlevelMinOrAbove|percentKannadalevelMinOrAbove|class|TotalStudents|MathAboveAvg|MathAvg|MathMin|MathBelowMin|KannadaReadingAboveAvg|KannadaReadingAvg|KannadaReadingMin|KannadaReadingBelowMin
+Bangalore|Anekal|Bannerghatta|301|G.H.P.S.Bayatarayanapura|Kannada|100|100|7|7|0|7|0|0|0|0|7|0
+Bangalore|Anekal|Bannerghatta|302|G.H.P.S.Bilwardanahalli|Kannada|95.83|91.67|7|24|0|12|11|1|0|0|22|2
+Bangalore|Anekal|Bannerghatta|303|G.H.P.S.Kanayakana agrahara|Kannada|100|100|7|17|0|0|17|0|0|0|17|0
+Bangalore|Anekal|Bannerghatta|304|G.H.P.S.Mantapa|Kannada|63.64|87.88|7|33|0|10|11|12|0|0|29|4
+Bangalore|Anekal|Bannerghatta|305|G.H.P.S.Begihalli|Kannada|80|80|7|10|0|5|3|2|0|0|8|2
+Bangalore|Anekal|Bannerghatta|306|G.H.P.S.Malenallasandra|Kannada|100|100|7|6|0|5|1|0|0|0|6|0
+Bangalore|Anekal|Bannerghatta|307|G.H.P.S.Bannerugatta|Kannada|100|68|7|50|0|0|50|0|0|0|34|16
+Bangalore|Anekal|Bannerghatta|308|G.H.P.S.Saklwara|Kannada|92.31|92.31|7|13|0|0|12|1|0|0|12|1
+Bangalore|Anekal|Haragadde|310|Harugadde|Kannada|74.07|46.3|7|54|0|0|40|14|0|0|25|29
+Bangalore|Anekal|Haragadde|311|Jigani|Kannada|84.72|90.28|7|72|0|4|57|11|0|0|65|7
+Bangalore|Anekal|Haragadde|312|Madapattana|Kannada|100|100|7|11|0|9|2|0|0|0|11|0
+Bangalore|Anekal|Haragadde|313|Lingapura|Kannada|100|100|7|5|0|4|1|0|0|0|5|0
+Bangalore|Anekal|Haragadde|314|Nosenoor|Kannada|100|100|7|20|0|5|15|0|0|0|20|0
+Bangalore|Anekal|Harapanahalli|325|Harapanahalli|Kannada|100|100|7|10|0|0|10|0|0|0|10|0
+Bangalore|Anekal|Harapanahalli|326|Krishanadoddi|Kannada|100|100|7|17|0|12|5|0|0|0|17|0
+Bangalore|Anekal|Harapanahalli|327|Kalbalu|Kannada|100|87.5|7|24|0|0|24|0|0|0|21|3
+Bangalore|Anekal|Harapanahalli|328|Konasandra|Kannada|100|100|7|30|0|13|17|0|0|0|30|0
+Bangalore|Anekal|Harapanahalli|330|Ragihalli|Kannada|100|100|7|8|0|1|7|0|0|0|8|0
+Bangalore|Anekal|Hennagara|316|Koppagete|Kannada|100|100|7|14|0|0|14|0|0|0|14|0
+Bangalore|Anekal|Hennagara|317|Margondanahalli|Kannada|100|92|7|25|0|0|25|0|0|0|23|2
+Bangalore|Anekal|Hennagara|318|Yarandanahalli|Kannada|90.48|90.48|7|21|0|0|19|2|0|0|19|2
+Bangalore|Anekal|Hennagara|319|Vabsandra|Kannada|87.5|87.5|7|8|0|0|7|1|0|0|7|1
+Bangalore|Anekal|Hennagara|320|Hulimangala|Kannada|100|100|7|6|0|3|3|0|0|0|6|0
+Bangalore|Anekal|Hennagara|321|Koppa |Kannada|100|100|7|10|0|1|9|0|0|0|10|0
+Bangalore|Anekal|Hennagara|322|Bingipura|Kannada|100|100|7|12|0|3|9|0|0|0|12|0
+Bangalore|Anekal|Hennagara|323|Rajapura|Kannada|57.14|42.86|7|14|0|0|8|6|0|0|6|8
+Bangalore|Anekal|Hennagara|324|Hennagara|Kannada|73.68|47.37|7|38|0|4|24|10|0|0|18|20
+Bangalore Rural|Hoskote|Alappanahalli|240|G.H.P.S.Alappanahalli|Kannada|100|100|7|7|0|7|0|0|0|0|7|0
+Bangalore Rural|Hoskote|Alappanahalli|241|G.H.P.S.Hasigala|Kannada|100|100|7|20|0|20|0|0|0|0|20|0
+Bangalore Rural|Hoskote|Alappanahalli|242|G.H.P.S.Kumblahalli|Kannada|75.76|90.91|7|33|0|4|21|8|0|0|30|3
+Bangalore Rural|Hoskote|Alappanahalli|243|G.H.P.S.Kamsandra|Kannada|100|100|7|9|0|4|5|0|0|0|9|0
+Bangalore Rural|Hoskote|Alappanahalli|244|G.H.P.S.Kurubarahalli|Kannada|91.67|100|7|12|0|1|10|1|0|0|12|0
+Bangalore Rural|Hoskote|Alappanahalli|245|G.H.P.S.Sonnahallipura|Kannada|100|100|7|12|0|11|1|0|0|0|12|0
+Bangalore Rural|Hoskote|Alappanahalli|246|G.H.P.S.Lakkondahalli|Kannada|69.23|84.62|7|13|0|0|9|4|0|0|11|2
+Bangalore Rural|Hoskote|Begur|214|G.H.P.S.Begur|Kannada|100|96.77|7|31|0|28|3|0|0|0|30|1
+Bangalore Rural|Hoskote|Begur|215|G.H.P.S.Doddahullur|Kannada|85.42|83.33|7|48|0|40|1|7|0|0|40|8
+Bangalore Rural|Hoskote|Begur|216|G.H.P.S.Dasarahalli|Kannada|100|82.86|7|35|0|25|10|0|0|0|29|6
+Bangalore Rural|Hoskote|Begur|217|G.H.P.S.Sompura|Kannada|92.86|92.86|7|14|0|0|13|1|0|0|13|1
+Bangalore Rural|Hoskote|Begur|218|G.H.P.S.M Satyavara|Kannada|100|100|7|10|0|9|1|0|0|0|10|0
+Bangalore Rural|Hoskote|Begur|219|G.H.P.S.E Muttasandra|Kannada|100|86.67|7|15|0|9|6|0|0|0|13|2
+Bangalore Rural|Hoskote|Begur|220|G.H.P.S.Kamblipura|Kannada|100|45.45|7|11|0|9|2|0|0|0|5|6
+Bangalore Rural|Hoskote|Begur|221|G.H.P.S.Mallimakanapura|Kannada|100|100|7|12|0|12|0|0|0|0|12|0
+Bangalore Rural|Hoskote|Begur|223|G.H.P.S.Doddahullurahalli|Kannada|100|77.27|7|22|0|21|1|0|0|0|17|5
+Bangalore Rural|Hoskote|Bendiganahalli|247|G.H.P.S.Bendiganahalli|Kannada|92.86|95.24|7|42|0|12|27|3|0|0|40|2
+Bangalore Rural|Hoskote|Bendiganahalli|248|G.H.P.S.Gullahalli|Kannada|85.71|92.86|7|14|0|10|2|2|0|0|13|1
+Bangalore Rural|Hoskote|Bendiganahalli|249|G.H.P.S.Doddaralagere|Kannada|100|91.67|7|12|0|7|5|0|0|0|11|1
+Bangalore Rural|Hoskote|Bendiganahalli|250|G.H.P.S.T Agrahara|Kannada|88.89|100|7|9|0|1|7|1|0|0|9|0
+Bangalore Rural|Hoskote|Bendiganahalli|251|G.H.P.S.Bhavapura|Kannada|85.71|85.71|7|14|0|5|7|2|0|0|12|2
+Bangalore Rural|Hoskote|Devanagundi|188|G.H.P.S.Devangundi|Kannada|80.77|82.69|7|52|0|14|28|10|0|0|43|9
+Bangalore Rural|Hoskote|Devanagundi|189|G.H.P.S.D Hosahalli|Kannada|100|100|7|6|0|0|6|0|0|0|6|0
+Bangalore Rural|Hoskote|Devanagundi|190|G.H.P.S.D Dunnasandra|Kannada|91.18|85.29|7|34|0|12|19|3|0|0|29|5
+Bangalore Rural|Hoskote|Devanagundi|191|G.H.P.S.Anugondanahalli|Kannada|100|100|7|15|0|7|8|0|0|0|15|0
+Bangalore Rural|Hoskote|Devanagundi|192|G.H.P.S.Muthkur|Kannada|100|100|7|8|0|6|2|0|0|0|8|0
+Bangalore Rural|Hoskote|Devanagundi|193|G.H.P.S.Medimallasandra|Kannada|50|50|7|2|0|1|0|1|0|0|1|1
+Bangalore Rural|Hoskote|Hosakote|232|G.H.P.S.G G M S |Kannada|54.32|77.78|7|81|0|20|24|37|0|0|63|18
+Bangalore Rural|Hoskote|Hosakote|233|G.H.P.S.Kurubarapete|Kannada|100|100|7|17|0|9|8|0|0|0|17|0
+Bangalore Rural|Hoskote|Hosakote|234|G.H.P.S.V V Extenion |Kannada|77.33|84|7|75|0|25|33|17|0|0|63|12
+Bangalore Rural|Hoskote|Hosakote|235|G.H.P.S.Doddagattiganabbe|Kannada|100|100|7|14|0|10|4|0|0|0|14|0
+Bangalore Rural|Hoskote|Hosakote|236|G.H.P.S.Chikkagattiganabbe|Kannada|88.89|100|7|18|0|13|3|2|0|0|18|0
+Bangalore Rural|Hoskote|Hosakote|237|G.H.P.S.Kannurahalli|Kannada|78.57|78.57|7|14|0|8|3|3|0|0|11|3
+Bangalore Rural|Hoskote|Hosakote|238|G.H.P.S.Dandipalya|Kannada|72.22|72.22|7|18|0|12|1|5|0|0|13|5
+Bangalore Rural|Hoskote|Hosakote|1056|KGKBMS Hoskote|Kannada|84.91|90.57|7|106|0|38|52|16|0|0|96|10
+Bangalore Rural|Hoskote|Jadigenahalli|208|G.H.P.S.Jadigenahlli|Kannada|90|96.67|7|30|0|23|4|3|0|0|29|1
+Bangalore Rural|Hoskote|Jadigenahalli|209|G.H.P.S.Orohalli|Kannada|81.82|86.36|7|22|0|10|8|4|0|0|19|3
+Bangalore Rural|Hoskote|Jadigenahalli|210|G.H.P.S.Chikkataggi|Kannada|85|95|7|20|0|11|6|3|0|0|19|1
+Bangalore Rural|Hoskote|Jadigenahalli|211|G.H.P.S.Tavatahalli|Kannada|88.89|100|7|9|0|8|0|1|0|0|9|0
+Bangalore Rural|Hoskote|Jadigenahalli|212|G.H.P.S.Attivatta|Kannada|87.5|81.25|7|16|0|12|2|2|0|0|13|3
+Bangalore Rural|Hoskote|Jadigenahalli|213|G.H.P.S.Soluru|Kannada|83.33|83.33|7|6|0|0|5|1|0|0|5|1
+Bangalore Rural|Hoskote|Kalkunte|195|G.H.P.S.Kalkunte|Kannada|100|89.66|7|29|0|5|24|0|0|0|26|3
+Bangalore Rural|Hoskote|Kalkunte|196|G.H.P.S.Bhgur|Kannada|100|100|7|3|0|2|1|0|0|0|3|0
+Bangalore Rural|Hoskote|Kalkunte|197|G.H.P.S.Turuvaranga|Kannada|100|100|7|14|0|3|11|0|0|0|14|0
+Bangalore Rural|Hoskote|Kalkunte|198|G.H.P.S.Narayanakere|Kannada|81.82|90.91|7|11|0|3|6|2|0|0|10|1
+Bangalore Rural|Hoskote|Kalkunte|199|G.H.P.S.Gundur|Kannada|83.33|83.33|7|18|0|6|9|3|0|0|15|3
+Bangalore Rural|Hoskote|Kalkunte|200|G.H.P.S.Maranagere|Kannada|84.62|84.62|7|13|0|4|7|2|0|0|11|2
+Bangalore Rural|Hoskote|Kalkunte|201|G.H.P.S.Gangaluru|Kannada|60|80|7|5|0|2|1|2|0|0|4|1
+Bangalore Rural|Hoskote|Nandagudi|459|G.H.P.S.Nandagudi|Kannada|47.62|66.67|7|21|0|4|6|11|0|0|14|7
+Bangalore Rural|Hoskote|Nandagudi|460|G.H.P.S.Dharmeshwara|Kannada|100|100|7|6|0|2|4|0|0|0|6|0
+Bangalore Rural|Hoskote|Nandagudi|461|G.H.P.S.Ettasandra|Kannada|100|100|7|12|0|9|3|0|0|0|12|0
+Bangalore Rural|Hoskote|Nandagudi|462|G.H.P.S.E Hosahalli|Kannada|100|100|7|7|0|2|5|0|0|0|7|0
+Bangalore Rural|Hoskote|Nandagudi|463|G.H.P.S.Anuppalli|Kannada|100|100|7|8|0|4|4|0|0|0|8|0
+Bangalore Rural|Hoskote|Nandagudi|464|G.H.P.S.Hindiganahalli|Kannada|89.47|73.68|7|19|0|15|2|2|0|0|14|5
+Bangalore Rural|Hoskote|Nelavagilu|452|G.H.P.S.Nelavagilu|Kannada|88.89|100|7|18|0|13|3|2|0|0|18|0
+Bangalore Rural|Hoskote|Nelavagilu|453|G.H.P.S.Dalasagere|Kannada|100|75|7|12|0|11|1|0|0|0|9|3
+Bangalore Rural|Hoskote|Nelavagilu|454|G.H.P.S.Chikkondahalli|Kannada|71.43|71.43|7|7|0|4|1|2|0|0|5|2
+Bangalore Rural|Hoskote|Nelavagilu|455|G.H.P.S.Siddanahalli|Kannada|100|100|7|4|0|1|3|0|0|0|4|0
+Bangalore Rural|Hoskote|Nelavagilu|456|G.H.P.S.Korate|Kannada|88.46|88.46|7|26|0|17|6|3|0|0|23|3
+Bangalore Rural|Hoskote|Nelavagilu|457|G.H.P.S.Hedakanahalli|Kannada|76.92|80.77|7|26|0|17|3|6|0|0|21|5
+Bangalore Rural|Hoskote|Nelavagilu|458|G.H.P.S.Karahalli|Kannada|100|91.67|7|12|0|4|8|0|0|0|11|1
+Bangalore Rural|Hoskote|Samethanahalli|202|G.H.P.S.Samethanahalli|Kannada|70.97|87.1|7|31|0|16|6|9|0|0|27|4
+Bangalore Rural|Hoskote|Samethanahalli|203|G.H.P.S.Muttasandra|Kannada|92|80|7|25|0|15|8|2|0|0|20|5
+Bangalore Rural|Hoskote|Samethanahalli|204|G.H.P.S.K Mallsandra|Kannada|95.83|95.83|7|24|0|18|5|1|0|0|23|1
+Bangalore Rural|Hoskote|Samethanahalli|205|G.H.P.S.Nadavatthi|Kannada|55|65|7|20|0|3|8|9|0|0|13|7
+Bangalore Rural|Hoskote|Samethanahalli|207|G.H.P.S.Bodhenahosahalli|Kannada|93.55|93.55|7|31|0|15|14|2|0|0|29|2
+Bangalore Rural|Hoskote|Shivanapura|259|G.H.P.S.Shivanapura|Kannada|67.14|88.57|7|70|0|17|30|23|0|0|62|8
+Bangalore Rural|Hoskote|Shivanapura|260|G.H.P.S.Chikkanahalli|Kannada|83.33|91.67|7|12|0|2|8|2|0|0|11|1
+Bangalore Rural|Hoskote|Shivanapura|261|G.H.P.S.Mugabala|Kannada|94|94|7|50|0|43|4|3|0|0|47|3
+Bangalore Rural|Hoskote|Shivanapura|437|G.H.P.S.Kembaliganahalli|Kannada|100|94.12|7|17|0|15|2|0|0|0|16|1
+Bangalore Rural|Hoskote|Shivanapura|438|G.H.P.S.Needagatta|Kannada|40|66.67|7|15|0|3|3|9|0|0|10|5
+Bangalore Rural|Hoskote|Shivanapura|439|G.H.P.S.Gottipura|Kannada|100|100|7|3|0|3|0|0|0|0|3|0
+Bangalore Rural|Hoskote|Shivanapura|440|G.H.P.S.Maliyappanahalli|Kannada|71.88|75|7|32|0|19|4|9|0|0|24|8
+Bangalore Rural|Hoskote|Shivanapura|441|G.H.P.S.Karappanahalli|Kannada|71.43|78.57|7|14|0|10|0|4|0|0|11|3
+Bangalore Rural|Hoskote|Shivanapura|442|G.H.P.S.K Satyavara|Kannada|100|100|7|8|0|6|2|0|0|0|8|0
+Bangalore Rural|Hoskote|Shivanapura|443|G.H.P.S.Muttakadahalli|Kannada|100|100|7|8|0|5|3|0|0|0|8|0
+Bangalore Rural|Hoskote|Sulibele|252|G.H.P.S.Sulibele|Kannada|93.75|96.88|7|64|0|16|44|4|0|0|62|2
+Bangalore Rural|Hoskote|Sulibele|253|G.H.P.S.Kurubarahatte|Kannada|90|100|7|10|0|6|3|1|0|0|10|0
+Bangalore Rural|Hoskote|Sulibele|254|G.H.P.S.Arasanahalli|Kannada|87.5|75|7|8|0|3|4|1|0|0|6|2
+Bangalore Rural|Hoskote|Sulibele|255|G.H.P.S.Giddappanahalli|Kannada|66.67|66.67|7|12|0|2|6|4|0|0|8|4
+Bangalore Rural|Hoskote|Sulibele|256|G.H.P.S.Attubele|Kannada|100|100|7|13|0|8|5|0|0|0|13|0
+Bangalore Rural|Hoskote|Sulibele|257|G.H.P.S.Yenagunte|Kannada|76.47|100|7|17|0|0|13|4|0|0|17|0
+Bangalore Rural|Hoskote|Sulibele|258|G.H.P.S.Bettahalli|Kannada|77.78|100|7|9|0|1|6|2|0|0|9|0
+Bangalore Rural|Hoskote|Sulibele|262|G.H.P.S.Janata Colony Sulibele|Kannada|75|65.63|7|32|0|7|17|8|0|0|21|11
+Bangalore Rural|Hoskote|Tavarekere|444|G.H.P.S.Tavarekere|Kannada|85.96|92.98|7|57|0|32|17|8|0|0|53|4
+Bangalore Rural|Hoskote|Tavarekere|445|G.H.P.S.Hettakki|Kannada|88.24|100|7|17|0|8|7|2|0|0|17|0
+Bangalore Rural|Hoskote|Tavarekere|446|G.H.P.S.Gangapura|Kannada|100|77.78|7|18|0|16|2|0|0|0|14|4
+Bangalore Rural|Hoskote|Tavarekere|447|G.H.P.S.Doddanallala|Kannada|100|100|7|8|0|1|7|0|0|0|8|0
+Bangalore Rural|Hoskote|Tavarekere|448|G.H.P.S.Chikkanallala|Kannada|100|100|7|7|0|7|0|0|0|0|7|0
+Bangalore Rural|Hoskote|Tavarekere|449|G.H.P.S.Doddadenahalli|Kannada|76.92|76.92|7|26|0|16|4|6|0|0|20|6
+Bangalore Rural|Hoskote|Tavarekere|450|G.H.P.S.Ummalu|Kannada|96.3|92.59|7|27|0|24|2|1|0|0|25|2
+Bangalore Rural|Hoskote|Tavarekere|451|G.H.P.S.Valagerepura|Kannada|100|100|7|8|0|5|3|0|0|0|8|0
+Bangalore Rural|Hoskote|Vagata|224|G.H.P.S.Vagata|Kannada|85|77.5|7|40|0|10|24|6|0|0|31|9
+Bangalore Rural|Hoskote|Vagata|225|G.H.P.S.Kodihalli|Kannada|88.89|88.89|7|9|0|3|5|1|0|0|8|1
+Bangalore Rural|Hoskote|Vagata|226|G.H.P.S.Khjihosahalli|Kannada|83.33|83.33|7|12|0|2|8|2|0|0|10|2
+Bangalore Rural|Hoskote|Vagata|227|G.H.P.S.Tarabahalli|Kannada|100|60|7|15|0|13|2|0|0|0|9|6
+Bangalore Rural|Hoskote|Vagata|228|G.H.P.S.Honchanahalli|Kannada|100|91.67|7|12|0|4|8|0|0|0|11|1
+Bangalore Rural|Hoskote|Vagata|229|G.H.P.S.Kattigenahalli|Kannada|66.67|16.67|7|12|0|1|7|4|0|0|2|10
+Bangalore Rural|Hoskote|Vagata|230|G.H.P.S.Makanahalli|Kannada|73.33|73.33|7|30|0|6|16|8|0|0|22|8
+Bangalore Rural|Hoskote|Vagata|231|G.H.P.S.Kanekallu|Kannada|100|100|7|12|0|8|4|0|0|0|12|0
+Bangalore South|HAL|HAL II Stage|571|G.H.P.S Vimanapura|Kannada|80|80|7|25|0|11|9|5|0|0|20|5
+Bangalore South|Hebbal|Domluru|576|G.H.P.S.Sahakaranagara|Kannada|100|95.83|7|24|0|9|15|0|0|0|23|1
+Bangalore South|Domlur|Domluru|577|G.H.P.S.Appareddypalya|Kannada|61.11|72.22|7|18|0|8|3|7|0|0|13|5
+Bangalore South|Domlur|Domluru|579|G.H.P.S.Jogu Palya(Urdu)|Kannada|33.33|33.33|7|3|0|1|0|2|0|0|1|2
+Chikballapur|Chikballapur|Agalagurki|263|G.H.P.S.Agalagurki|Kannada|57.14|57.14|7|14|0|4|4|6|0|0|8|6
+Chikballapur|Chikballapur|Chikballapur|269|G.H.P.S.Kandhawara|Kannada|92.59|92.59|7|27|0|0|25|2|0|0|25|2
+Chikballapur|Chikballapur|Chikballapur|1055|Old Middle School|Kannada|80.26|90.79|7|76|0|0|61|15|0|0|69|7
+Chikballapur|Chikballapur|Kondenahalli|268|G.H.P.S.Giddanahalli|Kannada|71.43|76.19|7|21|0|12|3|6|0|0|16|5
+Chikballapur|Chikballapur|Muddenahalli|270|G.H.P.S.Kanganahalli|Kannada|54.84|58.06|7|31|0|0|17|14|0|0|18|13
+Chikballapur|Chikballapur|Muddenahalli|275|G.H.P.S.Mylapanahalli|Kannada|90.48|90.48|7|21|0|0|19|2|0|0|19|2
+Chikballapur|Chikballapur|Nandi|272|G.H.P.S.Kuduvathi|Kannada|77.78|77.78|7|18|0|0|14|4|0|0|14|4
+Chikballapur|Chikballapur|Nandi|273|G.H.P.S.Kuppahalli|Kannada|93.75|93.75|7|32|0|1|29|2|0|0|30|2
+Chikballapur|Chikballapur|Nandi|274|G.H.P.S.Kolavanahalli|Kannada|100|100|7|16|0|2|14|0|0|0|16|0
+Chikballapur|Chikballapur|Nandi|276|G.H.P.S.Nandi|Kannada|78.95|78.95|7|57|0|0|45|12|0|0|45|12
+Chikballapur|Chikballapur|Nayanahalli|264|G.H.P.S.Ajjavara|Kannada|95|95|7|20|0|12|7|1|0|0|19|1
+Chikballapur|Chikballapur|Nayanahalli|265|G.H.P.S.Andarlahalli|Kannada|82.35|82.35|7|17|0|10|4|3|0|0|14|3
+Chikballapur|Chikballapur|Nayanahalli|277|G.H.P.S.Nayanahalli|Kannada|66.67|66.67|7|21|0|0|14|7|0|0|14|7
+Chikballapur|Chikballapur|Nayanahalli|278|G.H.P.S.Patrenahalli|Kannada|100|100|7|11|0|10|1|0|0|0|11|0
+Chikballapur|Chikballapur|Peresandra|1054|G.H.P.S.Peresandra|Kannada|78.57|83.33|7|84|0|0|66|18|0|0|70|14
+Chikballapur|Chikballapur|Poshettihalli|281|G.H.P.S.Gungerlahalli|Kannada|100|100|7|20|0|0|20|0|0|0|20|0
+Chikballapur|Chikballapur|Poshettihalli|294|G.H.P.S.Balkuntahalli|Kannada|80|80|7|15|0|0|12|3|0|0|12|3
+Chikballapur|Chikballapur|Poshettihalli|295|G.H.P.S.Poshettihalli|Kannada|89.47|91.23|7|57|0|0|51|6|0|0|52|5
+Chikballapur|Chikballapur|Poshettihalli|296|G.H.P.S.Bomenahalli|Kannada|100|100|7|11|0|2|9|0|0|0|11|0
+Chikballapur|Chikballapur|SreeRampura|266|G.H.P.S.Bidaganahalli|Kannada|95|95|7|20|0|0|19|1|0|0|19|1
+Chikballapur|Chikballapur|SreeRampura|267|G.H.P.S.Doddamarale|Kannada|100|100|7|12|0|1|11|0|0|0|12|0
+Chikballapur|Chikballapur|SreeRampura|279|G.H.P.S.Srirampura|Kannada|69.57|69.57|7|23|0|0|16|7|0|0|16|7
+Chikballapur|Chikballapur|SreeRampura|280|G.H.P.S.Yaluvahalli|Kannada|100|100|7|16|0|0|16|0|0|0|16|0
+Chikballapur|Chikballapur|Thippenahalli|297|G.H.P.S.Tippenahalli|Kannada|92.86|92.86|7|14|0|9|4|1|0|0|13|1
+Chikballapur|Gauribidnur|Alakapura|286|G.H.P.S.Pura|Kannada|75|78.13|7|32|0|0|24|8|0|0|25|7
+Chikballapur|Gauribidnur|Alakapura|287|G.H.P.S.Bisalahalli|Kannada|100|100|7|38|0|0|38|0|0|0|38|0
+Chikballapur|Gauribidnur|Halehalli|283|G.H.P.S.Honnapanahalli|Kannada|89.47|89.47|7|19|0|0|17|2|0|0|17|2
+Chikballapur|Gauribidnur|Halehalli|284|G.H.P.S.varavani|Kannada|80|80|7|15|0|0|12|3|0|0|12|3
+Chikballapur|Gauribidnur|Manchenahalli|282|G.H.P.S.Rayanakallu|Kannada|100|100|7|5|0|0|5|0|0|0|5|0
+Chikballapur|Gauribidnur|Manchenahalli|298|G.H.P.S.Minakanagurki|Kannada|87.5|92.5|7|40|0|0|35|5|0|0|37|3
+Chikballapur|Gauribidnur|Namagondlu|285|G.H.P.S.Jarabandahalli|Kannada|100|100|7|11|0|0|11|0|0|0|11|0
+Chikballapur|Gauribidnur|Thondebhavi|288|G.H.P.S.Thippaganahalli|Kannada|72.73|100|7|11|0|0|8|3|0|0|11|0
+Chikballapur|Gauribidnur|Thondebhavi|289|G.H.P.S.Thondebhavi|Kannada|90.91|90.91|7|33|0|6|24|3|0|0|30|3
+Chikballapur|Gauribidnur|Thondebhavi|290|G.H.P.S.Belchukkanahalli|Kannada|96.3|96.3|7|27|0|0|26|1|0|0|26|1
+Chikballapur|Gauribidnur|Thondebhavi|291|G.H.P.S.Indiranagara|Kannada|72.73|90.91|7|11|0|0|8|3|0|0|10|1
+Chikballapur|Gauribidnur|Thondebhavi|292|G.H.P.S.Thondebhavi Railway Station|Kannada|86.36|90.91|7|22|0|0|19|3|0|0|20|2
+Chikballapur|Gauribidnur|Thondebhavi|293|G.H.P.S.Bevenahalli|Kannada|84.62|96.15|7|26|0|0|22|4|0|0|25|1
+Chikballapur|Gauribidnur|Thondebhavi|299|G.H.P.S.Kalnayakanahalli|Kannada|88.24|94.12|7|51|0|0|45|6|0|0|48|3
+Chikballapur|Gauribidnur|Thondebhavi|300|G.H.P.S.Dandiganahalli|Kannada|61.54|92.31|7|13|0|0|8|5|0|0|12|1
+Davanagere|Harapanahalli|Arasikare|547|G.H.P.S.Hikkimgeri|Kannada|100|97.5|7|40|0|38|2|0|0|0|39|1
+Davanagere|Harapanahalli|Arasikare|558|G.H.P.S.Toudur Tanda|Kannada|0|0|7|1|0|0|0|1|0|0|0|1
+Davanagere|Harapanahalli|Arasikare|559|G.H.P.S.Komaranahalli|Kannada|94.12|100|7|17|0|11|5|1|0|0|17|0
+Davanagere|Harapanahalli|Arasikare|570|G.H.P.S.Nichavvanahalli|Kannada|100|70|7|10|0|7|3|0|0|0|7|3
+Davanagere|Harapanahalli|Chigatgeri|554|G.H.P.S.Konganhosooru|Kannada|100|100|7|6|0|5|1|0|0|0|6|0
+Davanagere|Harapanahalli|Chirstahalli|541|G.H.P.S.Machihalli|Kannada|100|100|7|14|0|14|0|0|0|0|14|0
+Davanagere|Harapanahalli|Chirstahalli|542|G.H.P.S.Machihalli Tanda|Kannada|68.42|89.47|7|19|0|10|3|6|0|0|17|2
+Davanagere|Harapanahalli|Chirstahalli|550|G.H.P.S.Alagilwad|Kannada|100|100|7|9|0|8|1|0|0|0|9|0
+Davanagere|Harapanahalli|Goverhalli|543|G.H.P.S. Channahalli|Kannada|100|40|7|5|0|1|4|0|0|0|2|3
+Davanagere|Harapanahalli|Goverhalli|544|G.H.P.S.Hulikatti|Kannada|100|69.05|7|42|0|39|3|0|0|0|29|13
+Davanagere|Harapanahalli|Goverhalli|545|G.H.P.S.Uddatti Tanda|Kannada|100|50|7|6|0|5|1|0|0|0|3|3
+Davanagere|Harapanahalli|Goverhalli|563|G.H.P.S.Haraknalu|Kannada|60.61|42.42|7|33|0|12|8|13|0|0|14|19
+Davanagere|Harapanahalli|Gundagatti|555|G.H.P.S.Sevanagar|Kannada|33.33|50|7|6|0|0|2|4|0|0|3|3
+Davanagere|Harapanahalli|Haluvagalu|549|G.H.P.S.Garbhagudi|Kannada|100|100|7|16|0|16|0|0|0|0|16|0
+Davanagere|Harapanahalli|Haluvagalu|568|G.H.P.S.Badavane halvagalu|Kannada|100|92.86|7|28|0|27|1|0|0|0|26|2
+Davanagere|Harapanahalli|Harapanahalli|569|G.H.P.S.9th Vard Hphalli|Kannada|100|0|7|1|0|1|0|0|0|0|0|1
+Davanagere|Harapanahalli|Kanchikare|546|G.H.P.S.Hallikere|Kannada|91.67|100|7|12|0|11|0|1|0|0|12|0
+Davanagere|Harapanahalli|Kanchikare|557|G.H.P.S.Kyarkatti|Kannada|100|80.95|7|21|0|21|0|0|0|0|17|4
+Davanagere|Harapanahalli|Kunchur|562|G.H.P.S.Kunchur |Kannada|95.24|97.62|7|42|0|39|1|2|0|0|41|1
+Davanagere|Harapanahalli|Madihalli|565|G.H.P.S.Hosakote|Kannada|95|95|7|20|0|19|0|1|0|0|19|1
+Davanagere|Harapanahalli|Madlageri|553|G.H.P.S.Madlageri|Kannada|100|71.43|7|7|0|7|0|0|0|0|5|2
+Davanagere|Harapanahalli|Matthihalli|561|G.H.P.S.Sasvihalli|Kannada|56.25|62.5|7|16|0|9|0|7|0|0|10|6
+Davanagere|Harapanahalli|Nilgunda|552|G.H.P.S.Ittigudi|Kannada|83.33|100|7|12|0|9|1|2|0|0|12|0
+Davanagere|Harapanahalli|Singrihalli|564|G.H.P.S.Keretanda|Kannada|100|91.67|7|12|0|12|0|0|0|0|11|1
+Davanagere|Harapanahalli|Telagi|551|G.H.P.S.Yarbabalu|Kannada|100|91.67|7|12|0|11|1|0|0|0|11|1
+Davanagere|Harapanahalli|Ucchangidurga|556|G.H.P.S.Bevinahalli D Tanda|Kannada|100|84.62|7|13|0|7|6|0|0|0|11|2
+Dharwad|Kalghatgi|Dastikoppa|134|G.H.P.S. Ramanala|Kannada|63.16|68.42|7|19|0|6|6|7|0|0|13|6
+Dharwad|Kalghatgi|Dastikoppa|163|G.H.P.S. Madakihonnalli|Kannada|66.67|76.19|7|21|0|7|7|7|0|0|16|5
+Dharwad|Kalghatgi|Dastikoppa|164|G.H.P.S. Sangadevarakoppa|Kannada|90.91|90.91|7|11|0|3|7|1|0|0|10|1
+Dharwad|Kalghatgi|Dastikoppa|469|G.H.P.S.Dastikoppa|Kannada|100|90.63|7|32|0|19|13|0|0|0|29|3
+Dharwad|Kalghatgi|Dastikoppa|476|G.H.P.S.Belavantara|Kannada|100|86.44|7|59|0|33|26|0|0|0|51|8
+Dharwad|Kalghatgi|Dastikoppa|477|G.H.P.S.H-Somanakoppa|Kannada|100|100|7|5|0|5|0|0|0|0|5|0
+Dharwad|Kalghatgi|Devikoppa|177|G.H.P.S. Thambur|Kannada|89.29|89.29|7|28|0|11|14|3|0|0|25|3
+Dharwad|Kalghatgi|Devikoppa|178|G.H.P.S. Shinganalli|Kannada|50|40|7|10|0|2|3|5|0|0|4|6
+Dharwad|Kalghatgi|Devikoppa|179|G.H.P.S. Sangatikoppa|Kannada|100|91.3|7|23|0|23|0|0|0|0|21|2
+Dharwad|Kalghatgi|Devikoppa|180|G.H.P.S. Junjunbail |Kannada|95.45|90.91|7|22|0|17|4|1|0|0|20|2
+Dharwad|Kalghatgi|Devikoppa|508|G.H.P.S.Devikoppa  |Kannada|95.31|70.31|7|64|0|43|18|3|0|0|45|19
+Dharwad|Kalghatgi|Devikoppa|509|G.H.P.S.DevikoppaJP|Kannada|95.24|80.95|7|21|0|6|14|1|0|0|17|4
+Dharwad|Kalghatgi|Dhummavada|182|G.H.P.S. Dhummavada (KGS)  |Kannada|70|76.67|7|30|0|1|20|9|0|0|23|7
+Dharwad|Kalghatgi|Dhummavada|183|G.H.P.S. Jodihalli|Kannada|97.67|90.7|7|43|0|2|40|1|0|0|39|4
+Dharwad|Kalghatgi|Dhummavada|184|G.H.P.S. Jammihala|Kannada|100|87.5|7|16|0|11|5|0|0|0|14|2
+Dharwad|Kalghatgi|Dhummavada|187|G.H.P.S. B-Gudihal|Kannada|93.55|96.77|7|31|0|2|27|2|0|0|30|1
+Dharwad|Kalghatgi|Dhummavada|517|G.H.P.S.Hirehonnalli(KGS)|Kannada|57.69|88.46|7|26|0|8|7|11|0|0|23|3
+Dharwad|Kalghatgi|Dhummavada|518|G.H.P.S.Dummavada|Kannada|88.24|82.35|7|34|0|20|10|4|0|0|28|6
+Dharwad|Kalghatgi|Dhummavada|522|G.H.P.S.Kalasanakoppa|Kannada|44.44|100|7|9|0|4|0|5|0|0|9|0
+Dharwad|Kalghatgi|Dhummavada|524|G.H.P.S.Kuruvinakoppa|Kannada|62.07|79.31|7|29|0|11|7|11|0|0|23|6
+Dharwad|Kalghatgi|Dhummavada|525|G.H.P.S.B-Gudihal|Urdu|100|77.78|7|9|0|6|3|0|0|0|7|2
+Dharwad|Kalghatgi|Dhummavada|540|G.H.S.Hirehonnalli|Kannada|75.86|86.21|7|29|0|0|22|7|0|0|25|4
+Dharwad|Kalghatgi|Ganjigatti|159|G.H.P.S. Surasettikoppa|Kannada|75|75|7|40|0|22|8|10|0|0|30|10
+Dharwad|Kalghatgi|Ganjigatti|160|G.H.P.S. Naganur|Kannada|72.41|68.97|7|29|0|0|21|8|0|0|20|9
+Dharwad|Kalghatgi|Ganjigatti|161|G.H.P.S. Bagadageri|Kannada|91.67|91.67|7|24|0|22|0|2|0|0|22|2
+Dharwad|Kalghatgi|Ganjigatti|162|G.H.P.S. Suthagatti|Kannada|75|75|7|4|0|3|0|1|0|0|3|1
+Dharwad|Kalghatgi|Ganjigatti|503|G.H.P.S.Ganjjigatti|Kannada|68.75|75|7|32|0|21|1|10|0|0|24|8
+Dharwad|Kalghatgi|Ganjigatti|504|G.H.P.S.Bogenagarakoppa|Kannada|70|83.33|7|30|0|9|12|9|0|0|25|5
+Dharwad|Kalghatgi|Hulkoppa|185|G.H.P.S. J-Basavanakoppa|Kannada|71.43|57.14|7|14|0|1|9|4|0|0|8|6
+Dharwad|Kalghatgi|Hulkoppa|186|G.H.P.S. Neerasagar|Kannada|100|85.71|7|7|0|2|5|0|0|0|6|1
+Dharwad|Kalghatgi|Hulkoppa|483|G.H.P.S.G-Hulakappa|Kannada|82.35|94.12|7|34|0|16|12|6|0|0|32|2
+Dharwad|Kalghatgi|Hulkoppa|484|G.H.P.S.HulakoppaJP|Kannada|94.44|66.67|7|18|0|15|2|1|0|0|12|6
+Dharwad|Kalghatgi|Hulkoppa|486|G.H.P.S.Hulakoppa-DPEP|Kannada|91.89|75.68|7|37|0|23|11|3|0|0|28|9
+Dharwad|Kalghatgi|Kalghatgi|148|G.H.P.S. Gandhinagar|Kannada|100|100|7|13|0|12|1|0|0|0|13|0
+Dharwad|Kalghatgi|Kalghatgi|150|G.H.P.S. Hulaginakatti|Kannada|66.67|77.78|7|9|0|3|3|3|0|0|7|2
+Dharwad|Kalghatgi|Kalghatgi|151|G.H.P.S. Kalghatgi Thanda|Kannada|77.78|44.44|7|9|0|4|3|2|0|0|4|5
+Dharwad|Kalghatgi|Kalghatgi|153|G.H.P.S. KGS Kalghatgi|Kannada|79.17|72.92|7|48|0|18|20|10|0|0|35|13
+Dharwad|Kalghatgi|Kalghatgi|493|G.H.P.S.Kalghatgi  |Urdu|80.77|53.85|7|26|0|17|4|5|0|0|14|12
+Dharwad|Kalghatgi|Kalghatgi|494|G.H.P.S.Kalghatgi(KBS)|Kannada|100|78.69|7|61|0|61|0|0|0|0|48|13
+Dharwad|Kalghatgi|Kudalagi|154|G.H.P.S. Kudalagi|Kannada|100|100|7|14|0|5|9|0|0|0|14|0
+Dharwad|Kalghatgi|Kudalagi|155|G.H.P.S. Sulikatti|Kannada|100|100|7|24|0|10|14|0|0|0|24|0
+Dharwad|Kalghatgi|Kudalagi|156|G.H.P.S. Hatakinala|Kannada|100|100|7|8|0|5|3|0|0|0|8|0
+Dharwad|Kalghatgi|Kudalagi|495|G.H.P.S.Sangameshwar|Kannada|100|68.57|7|35|0|0|35|0|0|0|24|11
+Dharwad|Kalghatgi|Kudalagi|497|G.H.P.S.Dimbuvalli|Kannada|100|20|7|5|0|0|5|0|0|0|1|4
+Dharwad|Kalghatgi|Mishrikoti|129|G.H.P.S. Mishrikoti (KGS)  |Kannada|97.14|82.86|7|35|0|32|2|1|0|0|29|6
+Dharwad|Kalghatgi|Mishrikoti|130|G.H.P.S. Chalamatti|Kannada|93.33|84.44|7|45|0|21|21|3|0|0|38|7
+Dharwad|Kalghatgi|Mishrikoti|131|G.H.P.S. Kadanakoppa|Kannada|77.27|77.27|7|22|0|12|5|5|0|0|17|5
+Dharwad|Kalghatgi|Mishrikoti|132|G.H.P.S. Harogeri|Kannada|87.5|75|7|8|0|7|0|1|0|0|6|2
+Dharwad|Kalghatgi|Mishrikoti|133|G.H.P.S. Kamadhenu|Kannada|95.45|68.18|7|22|0|15|6|1|0|0|15|7
+Dharwad|Kalghatgi|Mishrikoti|465|G.H.P.S.Mishrikoti   |Kannada|92.86|85.71|7|14|0|8|5|1|0|0|12|2
+Dharwad|Kalghatgi|Mishrikoti|466|G.U.P.S.Mishrikoti|Urdu|100|63.64|7|11|0|11|0|0|0|0|7|4
+Dharwad|Kalghatgi|Mishrikoti|467|G.H.P.S.MishrikotiJP|Kannada|66.67|77.78|7|9|0|3|3|3|0|0|7|2
+Dharwad|Kalghatgi|Mishrikoti|468|G.H.P.S.Ugnikeri|Kannada|100|82.14|7|28|0|20|8|0|0|0|23|5
+Dharwad|Kalghatgi|Mukkal|136|G.H.P.S. Yalavadala|Kannada|94.12|94.12|7|17|0|0|16|1|0|0|16|1
+Dharwad|Kalghatgi|Mukkal|137|G.H.P.S. Hunasikatti|Kannada|100|71.43|7|14|0|13|1|0|0|0|10|4
+Dharwad|Kalghatgi|Mukkal|138|G.H.P.S. Bammigatti (KBS) |Kannada|96.15|61.54|7|26|0|24|1|1|0|0|16|10
+Dharwad|Kalghatgi|Mukkal|139|G.H.P.S. Nelliharavi|Kannada|92.59|85.19|7|27|0|10|15|2|0|0|23|4
+Dharwad|Kalghatgi|Mukkal|140|G.H.P.S. Aladakatti|Kannada|71.43|85.71|7|7|0|2|3|2|0|0|6|1
+Dharwad|Kalghatgi|Mukkal|145|G.H.P.S. Mukkal|Kannada|100|75|7|48|0|46|2|0|0|0|36|12
+Dharwad|Kalghatgi|Mukkal|471|G.H.P.S.Bammigatti (KGS) |Kannada|95.65|95.65|7|23|0|6|16|1|0|0|22|1
+Dharwad|Kalghatgi|Mukkal|474|G.H.P.S.Thavarageri|Kannada|95.45|84.09|7|44|0|27|15|2|0|0|37|7
+Dharwad|Kalghatgi|Muthagi|143|G.H.P.S. Mutthagi|Kannada|94.44|91.67|7|36|0|24|10|2|0|0|33|3
+Dharwad|Kalghatgi|Muthagi|144|G.H.P.S. Hasarambi|Kannada|100|100|7|18|0|18|0|0|0|0|18|0
+Dharwad|Kalghatgi|Muthagi|146|G.H.P.S. Linganakoppa|Kannada|100|100|7|12|0|10|2|0|0|0|12|0
+Dharwad|Kalghatgi|Muthagi|147|G.H.P.S. Hullambi|Kannada|86.96|95.65|7|23|0|17|3|3|0|0|22|1
+Dharwad|Kalghatgi|Muthagi|481|G.H.P.S.B-Shigigatti|Kannada|100|76.92|7|13|0|10|3|0|0|0|10|3
+Dharwad|Kalghatgi|Muthagi|482|G.H.P.S.Gambyapura|Kannada|75|70.83|7|24|0|10|8|6|0|0|17|7
+Dharwad|Kalghatgi|Muthagi|487|G.H.P.S.Begur  |Kannada|79.41|88.24|7|34|0|24|3|7|0|0|30|4
+Dharwad|Kalghatgi|Muthagi|489|G.H.P.S.Bisaralli|Kannada|85.71|85.71|7|21|0|18|0|3|0|0|18|3
+Dharwad|Kalghatgi|T-Honnalli|166|G.H.P.S. G-Hulikatti|Kannada|100|100|7|16|0|11|5|0|0|0|16|0
+Dharwad|Kalghatgi|T-Honnalli|167|G.H.P.S. B-Hulikatti|Kannada|100|100|7|9|0|9|0|0|0|0|9|0
+Dharwad|Kalghatgi|T-Honnalli|168|G.H.P.S. Parasapur|Kannada|100|92.31|7|13|0|13|0|0|0|0|12|1
+Dharwad|Kalghatgi|T-Honnalli|169|G.H.P.S. Solaragoppa|Kannada|88.89|83.33|7|18|0|16|0|2|0|0|15|3
+Dharwad|Kalghatgi|T-Honnalli|170|G.H.P.S. Jinnur|Kannada|80.95|80.95|7|21|0|0|17|4|0|0|17|4
+Dharwad|Kalghatgi|T-Honnalli|171|G.H.P.S. Malakanakoppa|Kannada|100|75|7|32|0|0|32|0|0|0|24|8
+Dharwad|Kalghatgi|T-Honnalli|172|G.H.P.S. Dyavanakonda|Kannada|100|66.67|7|18|0|5|13|0|0|0|12|6
+Dharwad|Kalghatgi|T-Honnalli|173|G.H.P.S. Asthakatti|Kannada|100|87.5|7|16|0|16|0|0|0|0|14|2
+Dharwad|Kalghatgi|T-Honnalli|174|G.H.P.S. Bendalagtti|Kannada|94.12|76.47|7|17|0|15|1|1|0|0|13|4
+Dharwad|Kalghatgi|T-Honnalli|505|G.H.P.S.T-Honnalli|Kannada|86.84|82.89|7|76|0|53|13|10|0|0|63|13
+Dharwad|Kalghatgi|T-Honnalli|506|G.H.P.S.Birvalli|Kannada|84|80|7|25|0|5|16|4|0|0|20|5
+Ramanagara|Kanakapura|Anedoddi|41|G.H.P.S. Anedoddi|Kannada|100|85|7|20|0|5|15|0|0|0|17|3
+Ramanagara|Kanakapura|Anedoddi|75|G.H.P.S. Hulugondanahalli|Kannada|100|100|7|4|0|3|1|0|0|0|4|0
+Ramanagara|Kanakapura|Anedoddi|78|G.H.P.S. Kadasikoppa|Kannada|100|93.33|7|15|0|9|6|0|0|0|14|1
+Ramanagara|Kanakapura|Anedoddi|92|G.H.P.S. Kolliganahalli|Kannada|100|90.91|7|11|0|11|0|0|0|0|10|1
+Ramanagara|Kanakapura|Anedoddi|100|G.H.P.S. Medamaranahalli|Kannada|86.67|53.33|7|15|0|12|1|2|0|0|8|7
+Ramanagara|Kanakapura|Athihalli|2|G.H.P.S. Atthihalli|Kannada|100|71.43|7|14|0|4|10|0|0|0|10|4
+Ramanagara|Kanakapura|Athihalli|26|G.H.P.S. Kachuvanahalli|Kannada|100|100|7|12|0|5|7|0|0|0|12|0
+Ramanagara|Kanakapura|Athihalli|42|G.H.P.S. Arekattedoddi|Kannada|71.43|71.43|7|14|0|0|10|4|0|0|10|4
+Ramanagara|Kanakapura|Athihalli|54|G.H.P.S. Dhalimba|Kannada|84.21|78.95|7|19|0|7|9|3|0|0|15|4
+Ramanagara|Kanakapura|Athihalli|64|G.H.P.S. Gerahalli|Kannada|88.24|88.24|7|17|0|12|3|2|0|0|15|2
+Ramanagara|Kanakapura|Athihalli|69|G.H.P.S. Guruvinapura|Kannada|89.66|100|7|29|0|12|14|3|0|0|29|0
+Ramanagara|Kanakapura|Athihalli|77|G.H.P.S. Kabbalu|Kannada|100|81.82|7|11|0|9|2|0|0|0|9|2
+Ramanagara|Kanakapura|Athihalli|82|G.H.P.S. Kamsagara|Kannada|96.15|92.31|7|26|0|18|7|1|0|0|24|2
+Ramanagara|Kanakapura|Athihalli|118|G.H.P.S. Venkatarayanadoddi|Kannada|91.3|89.13|7|46|0|3|39|4|0|0|41|5
+Ramanagara|Kanakapura|Banavasi|37|G.H.P.S. A.Rampura|Kannada|100|100|7|19|0|11|8|0|0|0|19|0
+Ramanagara|Kanakapura|Banavasi|43|G.H.P.S. Banavasi|Kannada|100|100|7|11|0|10|1|0|0|0|11|0
+Ramanagara|Kanakapura|Banavasi|48|G.H.P.S. Biliganakuppe|Kannada|80|40|7|5|0|0|4|1|0|0|2|3
+Ramanagara|Kanakapura|Banavasi|59|G.H.P.S. Dyavasandra|Kannada|100|100|7|18|0|17|1|0|0|0|18|0
+Ramanagara|Kanakapura|Banavasi|65|G.H.P.S. Goduru|Kannada|100|80|7|5|0|1|4|0|0|0|4|1
+Ramanagara|Kanakapura|Banavasi|79|G.H.P.S. Kadujakkasandra|Kannada|100|93.33|7|15|0|8|7|0|0|0|14|1
+Ramanagara|Kanakapura|Banavasi|86|G.H.P.S. Karikaldoddi Gate|Kannada|100|100|7|9|0|3|6|0|0|0|9|0
+Ramanagara|Kanakapura|Banavasi|93|G.H.P.S. Konasandra|Kannada|90.91|63.64|7|11|0|9|1|1|0|0|7|4
+Ramanagara|Kanakapura|Banavasi|111|G.H.P.S. Thattekere|Kannada|100|100|7|9|0|0|9|0|0|0|9|0
+Ramanagara|Kanakapura|Banavasi|122|G.H.P.S.Algadakalu|Kannada|100|91.67|7|12|0|3|9|0|0|0|11|1
+Ramanagara|Kanakapura|Banavasi|123|G.H.P.S. Atthikuppe|Kannada|100|100|7|8|0|5|3|0|0|0|8|0
+Ramanagara|Kanakapura|Cheeluru|3|G.H.P.S. Cheeluru|Kannada|92.31|80.77|7|26|0|2|22|2|0|0|21|5
+Ramanagara|Kanakapura|Cheeluru|13|G.H.P.S. Paduvanagere|Kannada|85.71|66.67|7|21|0|0|18|3|0|0|14|7
+Ramanagara|Kanakapura|Cheeluru|35|G.H.P.S. T.Hosahalli|Kannada|75|100|7|4|0|2|1|1|0|0|4|0
+Ramanagara|Kanakapura|Cheeluru|58|G.H.P.S. Doddasadenahalli|Kannada|55.56|77.78|7|9|0|1|4|4|0|0|7|2
+Ramanagara|Kanakapura|Cheeluru|110|G.H.P.S. T. Bannikuppe|Kannada|91.3|82.61|7|23|0|0|21|2|0|0|19|4
+Ramanagara|Kanakapura|Chikkamuduvadi|52|G.H.P.S. Chikkamuduvadi|Kannada|96|88|7|25|0|14|10|1|0|0|22|3
+Ramanagara|Kanakapura|Chikkamuduvadi|53|G.H.P.S. Chikkenahalli|Kannada|90|80|7|10|0|8|1|1|0|0|8|2
+Ramanagara|Kanakapura|Chikkamuduvadi|94|G.H.P.S. Koothaganahalli|Kannada|88.89|88.89|7|9|0|0|8|1|0|0|8|1
+Ramanagara|Kanakapura|Chikkamuduvadi|95|G.H.P.S. Kothunuru|Kannada|95|90|7|20|0|14|5|1|0|0|18|2
+Ramanagara|Kanakapura|Chikkamuduvadi|109|G.H.P.S. Somedyapanahalli|Kannada|87.5|75|7|8|0|7|0|1|0|0|6|2
+Ramanagara|Kanakapura|Chikkamuduvadi|113|G.H.P.S. Thimmegowdana Doddi|Kannada|100|93.75|7|16|0|15|1|0|0|0|15|1
+Ramanagara|Kanakapura|Doddamuduvadi|44|G.H.P.S. Bandiganahalli|Kannada|68.18|68.18|7|22|0|6|9|7|0|0|15|7
+Ramanagara|Kanakapura|Doddamuduvadi|51|G.H.P.S. Chikkalbalu|Kannada|88.24|100|7|17|0|2|13|2|0|0|17|0
+Ramanagara|Kanakapura|Doddamuduvadi|55|G.H.P.S. Doddakalbalu|Kannada|86.67|86.67|7|15|0|8|5|2|0|0|13|2
+Ramanagara|Kanakapura|Doddamuduvadi|57|G.H.P.S. Doddamuduvadi|Kannada|83.33|66.67|7|12|0|10|0|2|0|0|8|4
+Ramanagara|Kanakapura|Doddamuduvadi|66|G.H.P.S. Gollahalli|Kannada|100|100|7|12|0|11|1|0|0|0|12|0
+Ramanagara|Kanakapura|Doddamuduvadi|96|G.H.P.S. Kottagalu|Kannada|91.67|91.67|7|12|0|1|10|1|0|0|11|1
+Ramanagara|Kanakapura|Doddamuduvadi|104|G.H.P.S. Picchanakere|Kannada|87.5|87.5|7|8|0|4|3|1|0|0|7|1
+Ramanagara|Kanakapura|Erandyapanahalli|18|G.H.P.S. Arekere|Kannada|90.91|81.82|7|11|0|2|8|1|0|0|9|2
+Ramanagara|Kanakapura|Erandyapanahalli|30|G.H.P.S. Kadushivanahalli|Kannada|100|100|7|14|0|13|1|0|0|0|14|0
+Ramanagara|Kanakapura|Erandyapanahalli|38|G.H.P.S. Aregadakalu|Kannada|100|100|7|4|0|4|0|0|0|0|4|0
+Ramanagara|Kanakapura|Erandyapanahalli|46|G.H.P.S. Bijjahalli|Kannada|87.5|66.67|7|24|0|3|18|3|0|0|16|8
+Ramanagara|Kanakapura|Erandyapanahalli|47|G.H.P.S. Bilidale|Kannada|100|94.44|7|18|0|17|1|0|0|0|17|1
+Ramanagara|Kanakapura|Erandyapanahalli|61|G.H.P.S. Erandyapanahalli|Kannada|90|100|7|20|0|10|8|2|0|0|20|0
+Ramanagara|Kanakapura|Erandyapanahalli|63|G.H.P.S. Gattigunda|Kannada|100|100|7|9|0|8|1|0|0|0|9|0
+Ramanagara|Kanakapura|Erandyapanahalli|68|G.H.P.S. Gulaganahalli|Kannada|100|90.91|7|11|0|1|10|0|0|0|10|1
+Ramanagara|Kanakapura|Erandyapanahalli|70|G.H.P.S. Halasuru|Kannada|96|72|7|25|0|20|4|1|0|0|18|7
+Ramanagara|Kanakapura|Erandyapanahalli|87|G.H.P.S. Kebbare|Kannada|100|87.5|7|16|0|8|8|0|0|0|14|2
+Ramanagara|Kanakapura|Erandyapanahalli|91|G.H.P.S. Kolagondanahalli|Kannada|100|88.89|7|18|0|0|18|0|0|0|16|2
+Ramanagara|Kanakapura|Erandyapanahalli|114|G.H.P.S. Thippuru|Kannada|100|100|7|10|0|5|5|0|0|0|10|0
+Ramanagara|Kanakapura|Erandyapanahalli|125|G.H.P.S. Hanchguli|Kannada|100|100|7|10|0|10|0|0|0|0|10|0
+Ramanagara|Kanakapura|Halasuru|6|G.H.P.S. Halasuru|Kannada|92.86|35.71|7|14|0|13|0|1|0|0|5|9
+Ramanagara|Kanakapura|Halasuru|12|G.H.P.S. Kadahalli|Kannada|83.33|83.33|7|6|0|4|1|1|0|0|5|1
+Ramanagara|Kanakapura|Halasuru|14|G.H.P.S. Sasalapura|Kannada|89.47|68.42|7|19|0|12|5|2|0|0|13|6
+Ramanagara|Kanakapura|Halasuru|49|G.H.P.S. Boohalli|Kannada|93.33|66.67|7|15|0|11|3|1|0|0|10|5
+Ramanagara|Kanakapura|Halasuru|72|G.H.P.S. Harihara|Kannada|93.75|100|7|16|0|5|10|1|0|0|16|0
+Ramanagara|Kanakapura|Halasuru|73|G.H.P.S. Honniganahalli|Kannada|81.82|72.73|7|11|0|4|5|2|0|0|8|3
+Ramanagara|Kanakapura|Harohalli|5|G.H.P.S. Harohalli|Kannada|86.54|77.88|7|104|0|23|67|14|0|0|81|23
+Ramanagara|Kanakapura|Hegganuru|8|G.H.P.S. Haroshivanahalli|Kannada|92.31|92.31|7|13|0|5|7|1|0|0|12|1
+Ramanagara|Kanakapura|Hegganuru|15|G.H.P.S. Uyyambahalli|Kannada|84.21|84.21|7|19|0|15|1|3|0|0|16|3
+Ramanagara|Kanakapura|Hegganuru|23|G.H.P.S. Heggnuru|Kannada|100|100|7|12|0|2|10|0|0|0|12|0
+Ramanagara|Kanakapura|Hegganuru|56|G.H.P.S. Doddalahalli|Kannada|100|97.22|7|36|0|22|14|0|0|0|35|1
+Ramanagara|Kanakapura|Hegganuru|60|G.H.P.S. Elagahalli|Kannada|96|80|7|25|0|15|9|1|0|0|20|5
+Ramanagara|Kanakapura|Hegganuru|102|G.H.P.S. Nayakanahalli|Kannada|80|80|7|10|0|4|4|2|0|0|8|2
+Ramanagara|Kanakapura|Hukunda|24|G.H.P.S. Hukunda|Kannada|91.43|94.29|7|35|0|22|10|3|0|0|33|2
+Ramanagara|Kanakapura|Hukunda|28|G.H.P.S. Kotekoppa|Kannada|100|100|7|11|0|5|6|0|0|0|11|0
+Ramanagara|Kanakapura|Hukunda|108|G.H.P.S. Shivanegowdanadoddi|Kannada|91.67|95.83|7|24|0|1|21|2|0|0|23|1
+Ramanagara|Kanakapura|Hunasanahalli|10|G.H.P.S. Hunasanahalli|Kannada|80|56.67|7|30|0|15|9|6|0|0|17|13
+Ramanagara|Kanakapura|Hunasanahalli|17|G.H.P.S. Alanatha|Kannada|100|92.86|7|14|0|9|5|0|0|0|13|1
+Ramanagara|Kanakapura|Hunasanahalli|19|G.H.P.S. Bannimukodulu|Kannada|78.57|75|7|28|0|6|16|6|0|0|21|7
+Ramanagara|Kanakapura|Hunasanahalli|126|G.H.P.S. Sarahaddinadoddi|Kannada|91.67|91.67|7|12|0|11|0|1|0|0|11|1
+Ramanagara|Kanakapura|Kaggalahalli|62|G.H.P.S. Gabbadi|Kannada|100|100|7|7|0|7|0|0|0|0|7|0
+Ramanagara|Kanakapura|Kaggalahalli|80|G.H.P.S. Kaggalahalli|Kannada|100|93.1|7|29|0|18|11|0|0|0|27|2
+Ramanagara|Kanakapura|Kaggalahalli|117|G.H.P.S. Vaderahalli|Kannada|100|100|7|9|0|3|6|0|0|0|9|0
+Ramanagara|Kanakapura|Kanakapura Town|11|G.H.P.S. K.P.L. Colony|Kannada|100|93.33|7|15|0|13|2|0|0|0|14|1
+Ramanagara|Kanakapura|Kanakapura Town|25|G.H.P.S. Kallahalli|Kannada|100|86.96|7|23|0|13|10|0|0|0|20|3
+Ramanagara|Kanakapura|Kanakapura Town|39|G.H.P.S. Ambedkar Nagara|Kannada|78.95|78.95|7|19|0|12|3|4|0|0|15|4
+Ramanagara|Kanakapura|Kanakapura Town|40|G.H.P.S. Anamanahalli|Kannada|95|100|7|20|0|17|2|1|0|0|20|0
+Ramanagara|Kanakapura|Kanakapura Town|45|G.H.P.S. Baradanahalli|Kannada|100|80|7|5|0|4|1|0|0|0|4|1
+Ramanagara|Kanakapura|Kanakapura Town|83|G.H.P.S. Kanakapura - 02|Kannada|96.55|82.76|7|58|0|15|41|2|0|0|48|10
+Ramanagara|Kanakapura|Kanakapura Town|84|G.H.P.S. Kanakapura - G.G.M.S|Kannada|97.96|93.88|7|49|0|38|10|1|0|0|46|3
+Ramanagara|Kanakapura|Kanakapura Town|85|G.H.P.S. Kanakapura - G.K.B.M.S|Kannada|85.19|77.78|7|27|0|6|17|4|0|0|21|6
+Ramanagara|Kanakapura|Kanakapura Town|124|G.H.P.S. Melekote|Kannada|92.86|92.86|7|14|0|7|6|1|0|0|13|1
+Ramanagara|Kanakapura|Kodihalli|7|G.H.P.S. Hosadurga|Kannada|90.91|78.18|7|55|0|15|35|5|0|0|43|12
+Ramanagara|Kanakapura|Kodihalli|21|G.H.P.S. Doddakabbahalli|Kannada|100|94.12|7|17|0|0|17|0|0|0|16|1
+Ramanagara|Kanakapura|Kodihalli|89|G.H.P.S. Kodihalli|Kannada|91.94|71.77|7|124|0|13|101|10|0|0|89|35
+Ramanagara|Kanakapura|Kodihalli|105|G.H.P.S. Salabanni|Kannada|100|87.5|7|8|0|2|6|0|0|0|7|1
+Ramanagara|Kanakapura|Maralavadi|81|G.H.P.S. Kallanakuppe|Kannada|88.24|52.94|7|17|0|10|5|2|0|0|9|8
+Ramanagara|Kanakapura|Maralavadi|98|G.H.P.S. Maralavadi|Kannada|75|73.61|7|72|0|11|43|18|0|0|53|19
+Ramanagara|Kanakapura|Maralavadi|112|G.H.P.S. Therubeedi|Kannada|100|92.86|7|14|0|12|2|0|0|0|13|1
+Ramanagara|Kanakapura|Maralavadi|120|G.H.P.S. Yalachavadi|Kannada|96.3|96.3|7|27|0|1|25|1|0|0|26|1
+Ramanagara|Kanakapura|Maralebekuppe|27|G.H.P.S. Maralebekuppe|Kannada|89.29|85.71|7|28|0|10|15|3|0|0|24|4
+Ramanagara|Kanakapura|Maralebekuppe|29|G.H.P.S. Krishnayyanadoddi|Kannada|100|95.24|7|21|0|17|4|0|0|0|20|1
+Ramanagara|Kanakapura|Maralebekuppe|31|G.H.P.S. Mullahalli|Kannada|83.87|83.87|7|31|0|12|14|5|0|0|26|5
+Ramanagara|Kanakapura|Maralebekuppe|32|G.H.P.S. Nallahalli|Kannada|96.3|92.59|7|27|0|18|8|1|0|0|25|2
+Ramanagara|Kanakapura|Maralebekuppe|90|G.H.P.S. Kokkarehosahalli|Kannada|82.35|94.12|7|17|0|6|8|3|0|0|16|1
+Ramanagara|Kanakapura|Narayanapura|9|G.H.P.S. Hulibele|Kannada|100|100|7|24|0|24|0|0|0|0|24|0
+Ramanagara|Kanakapura|Narayanapura|33|G.H.P.S. Narayanapura|Kannada|91.67|100|7|12|0|7|4|1|0|0|12|0
+Ramanagara|Kanakapura|Narayanapura|67|G.H.P.S. Gowdahalli|Kannada|86.67|80|7|15|0|2|11|2|0|0|12|3
+Ramanagara|Kanakapura|Narayanapura|88|G.H.P.S. Keralalusandra|Kannada|92.86|100|7|14|0|10|3|1|0|0|14|0
+Ramanagara|Kanakapura|Narayanapura|99|G.H.P.S. Mavathur|Kannada|100|87.5|7|8|0|0|8|0|0|0|7|1
+Ramanagara|Kanakapura|Narayanapura|127|G.H.P.S. Bettegowdanadoddi|Kannada|100|76.92|7|13|0|0|13|0|0|0|10|3
+Ramanagara|Kanakapura|Sathanuru|16|G.H.P.S. Acchalu|Kannada|85.71|68.57|7|35|0|20|10|5|0|0|24|11
+Ramanagara|Kanakapura|Sathanuru|50|G.H.P.S. Chikkahalli|Kannada|88.89|88.89|7|9|0|8|0|1|0|0|8|1
+Ramanagara|Kanakapura|Sathanuru|101|G.H.P.S. Nagarasanakote|Kannada|100|87.5|7|8|0|8|0|0|0|0|7|1
+Ramanagara|Kanakapura|Sathanuru|106|G.H.P.S. Sathanuru|Kannada|93.18|65.91|7|44|0|0|41|3|0|0|29|15
+Ramanagara|Kanakapura|Sathanuru|116|G.H.P.S. Thotahalli|Kannada|95.24|95.24|7|21|0|6|14|1|0|0|20|1
+Ramanagara|Kanakapura|Sathanuru|119|G.H.P.S. Yadamaranahalli|Kannada|100|100|7|14|0|10|4|0|0|0|14|0
+Ramanagara|Kanakapura|Shivanahalli|1|G.H.P.S. Aralalu|Kannada|100|83.33|7|6|0|4|2|0|0|0|5|1
+Ramanagara|Kanakapura|Shivanahalli|22|G.H.P.S. Halugondanahalli|Kannada|90.32|90.32|7|31|0|10|18|3|0|0|28|3
+Ramanagara|Kanakapura|Shivanahalli|34|G.H.P.S. Shivanahalli|Kannada|100|97.3|7|37|0|17|20|0|0|0|36|1
+Ramanagara|Kanakapura|Shivanahalli|74|G.H.P.S. Horalagallu|Kannada|80|70|7|10|0|0|8|2|0|0|7|3
+Ramanagara|Kanakapura|Shivanahalli|107|G.H.P.S. Seegekote|Kannada|100|92.86|7|14|0|13|1|0|0|0|13|1
+Ramanagara|Kanakapura|Thungani|36|G.H.P.S. Thungani|Kannada|94.59|83.78|7|37|0|16|19|2|0|0|31|6
+Ramanagara|Kanakapura|Thungani|97|G.H.P.S. Malligemettilu|Kannada|77.78|77.78|7|9|0|7|0|2|0|0|7|2
+Ramanagara|Kanakapura|Thungani|103|G.H.P.S. P.Rampura|Kannada|100|85.71|7|7|0|6|1|0|0|0|6|1
+Ramanagara|Kanakapura|Thungani|115|G.H.P.S. Thokasandra|Kannada|97.83|86.96|7|46|0|24|21|1|0|0|40|6
