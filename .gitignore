@@ -1,6 +1,5 @@
 *.py[cod]
 
-settings.py
 
 # C extensions
 *.so
@@ -43,4 +42,4 @@ logs/
 .log
 
 # Temp files
-*~
+.*~
