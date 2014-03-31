@@ -34,3 +34,13 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Temp files
+*~
+
+# Settings file
+settings.py
+
+# Logs
+logs/
+.log
