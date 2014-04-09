@@ -1,6 +1,9 @@
 *.py[cod]
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9c73f534fcac37c0115187e0b421e4fa732cfe09
 # C extensions
 *.so
 
@@ -36,13 +39,23 @@ nosetests.xml
 .project
 .pydevproject
 
+<<<<<<< HEAD
 
 # Logs
 logs/
 .log
 
+=======
+>>>>>>> 9c73f534fcac37c0115187e0b421e4fa732cfe09
 # Temp files
 *~
 
 # Settings file
 settings.py
+<<<<<<< HEAD
+=======
+
+# Logs
+logs/
+.log
+>>>>>>> 9c73f534fcac37c0115187e0b421e4fa732cfe09
