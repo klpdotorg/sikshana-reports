@@ -1,0 +1,102 @@
+
+#year {
+	margin-right: 129px; 
+	margin-top: -28px; 
+	width:75px;
+	height: 25px;
+    border-radius: 5px; 
+    border: 1px solid #ADD8E6; 
+    padding:1px; 
+    box-shadow: 2px 2px 3px #778899;
+    float: right; 
+}
+
+
+#clas {
+	margin-right: 46px; 
+	width:70px; 
+	margin-top: -28px;
+	height: 25px;
+    border-radius: 5px; 
+    border: 1px solid #ADD8E6; 
+    padding:1px; 
+    box-shadow: 2px 2px 3px #778899;
+    float: right; 
+}
+
+#math_button {
+	width:60px; 
+	height:25px; 
+	background-color:#F5F5F5; 
+	box-shadow: 2px 2px 3px #778899; 
+	border-radius: 5px; 
+	border: 1px solid #ADD8E6; 
+	border-top-right-radius: 0px; 
+	border-bottom-right-radius: 0px; 
+	padding: 1px; 
+	margin-left:0px;
+	margin-top:0px;
+}
+
+.button_div {
+	height: 50px;
+	width:450px;
+	margin-top: -28px;
+	margin-left: 636px;
+}
+
+#kannada_button {
+	width:70px; 
+	height:25px; 
+	background-color:#F5F5F5; 
+	box-shadow: 2px 2px 3px #778899; 
+	border-radius: 5px; 
+	border: 1px solid #ADD8E6; 
+	border-top-left-radius:0px; 
+	border-bottom-left-radius: 0px; 
+	padding: 1px; 
+	margin-left:-4px; 
+	margin-top:0px;
+}
+
+#alldistrict {
+	width:95px; 
+	height:25px; 
+	background-color:#F5F5F5; 
+	box-shadow: 2px 2px 3px #778899; 
+	border-radius: 5px; 
+	border: 1px solid #ADD8E6; 
+	padding: 1px; 
+	margin-left:6px; 
+	margin-top:0px;
+}
+
+#label_overall {
+	float:left; 
+	margin-left:0px; 
+	margin-top: -20px;
+}
+
+#label_aser {
+	float:left; 
+	margin-left:70px; 
+	margin-top: -20px;
+}
+
+#label_sikshana {
+	float:left; 
+	margin-left:175px; 
+	margin-top: -20px;
+}
+
+#label_aser_value {
+	float:left; 
+	margin-left:115px; 
+	margin-top: -20px;
+}
+
+#label_sikshana_value {
+	float:left; 
+	margin-left:245px; 
+	margin-top: -20px;
+}

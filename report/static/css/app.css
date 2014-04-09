@@ -3,7 +3,14 @@ body {
   
   padding-top: 20px;
   padding-bottom: 20px;
+  overflow-x:hidden; 
 }
+
+/*remove border highlight */
+*:focus {
+  outline: none;
+}
+
 
 /* Custom page header */
 .header {
@@ -70,13 +77,25 @@ body {
 
 .header a{
   text-decoration: none;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-top: -20px;
+  float: right;
+  line-height: 1px;
+  padding-bottom: 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#787878;
+}
+
+.header a:hover{
+  color:#42A5B3;
 }
 
 .para{
-  margin-left:150px;
+  margin-left:20px;
   font-family: "Helvetica Neue";
   font-size:13px;
-  margin-top: 450px;
+  margin-top: 430px;
 }
 
 .header h5{
@@ -101,26 +120,6 @@ body {
   color:#787878;
 }
 
-.count {
-  margin-top:-10px;
-  margin-left:0px;
-  margin-right:0px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#787878;
-  font-size: 18px;
-}
-
-.count select{
-  width:140px; 
-  height: 21px;
-  border-radius: 5px; 
-  border: 1px solid #ADD8E6; 
-  padding:1px; 
-  box-shadow: 3px 3px 3px #778899;
-  float: right; 
-  margin-right: 104px;
-}
-
 
 /* Custom page footer */
 .footer {
@@ -131,20 +130,7 @@ body {
   position: relative;
 }
 
-/* Main marketing message and sign up button */
-.jumbotron {
-  text-align: center;
-  border-bottom: 1px solid #e5e5e5;
-  padding-bottom: 20px;
-  padding-top: 30px;
-}
-.jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
-  margin-top: 50px;
-}
-
-/* Responsive: Portrait tablets and up */
+/* Responsive: Portrait tablets and up*/ 
 @media screen and (min-width: 768px) {
   /* Remove the padding we set earlier */
   .header,
@@ -165,16 +151,18 @@ body {
 
 .form-control {
   margin-right: 0px;
-  margin-left: 670px;
+  margin-left: 635px;
   margin-bottom: -1px;
   margin-top: -5px;
   float:auto;
   padding-top: 2px;
   padding-bottom: 2px;
+  width:800px;
 }
 
 .form-control select{
-  width:130px; 
+  width:130px;
+  height: 25px; 
   border-radius: 5px; 
   border: 1px solid #ADD8E6; 
   padding:1px; 
@@ -182,31 +170,25 @@ body {
 }
 
 .bar_chart{
-  margin-top: 5px;
+  margin-top: -5px;
   margin-bottom: 0px;
-  margin-left: -30px;
+  margin-left: -40px;
+  margin-right: 30px;
   float: left;
 }
 
 .table_chart{
-  margin-top: 90px;
+  margin-top: 80px;
   margin-bottom: 0px;
-  margin-left: 160px;
+  margin-left: 150px;
   float: left;
   height: 300px;
 }
 
-.login {
-  width: 600px;
-  border: 1px solid #B0C4DE;
-  border-radius: 7px; 
-  margin-top: 100px;
-  margin-bottom: 200px;
-  margin-left: 260px;
-  margin-right: 20px;
-  padding: 20px;
-  box-shadow: 5px 5px 18px #778899;
-
+button::-moz-focus-inner,
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner{
+    border: none;
 }
 
 .container {
@@ -214,9 +196,10 @@ body {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+
 }
 
- .google-visualization-table-table{
+.google-visualization-table-table{
 background:none !important;
 }
 
@@ -238,7 +221,6 @@ background:none !important;
 }
 
 .table-row-odd {
-  background-color: #F5F5F5;
+  background-color: #C0C0C0;
 }
 
-  

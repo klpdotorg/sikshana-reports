@@ -16,11 +16,14 @@ for(i=0;i<dist.length;i++){
     createOption(document.getElementById('district'),dist[i],dist[i]);
 }
 for(i=0;i<clas.length;i++){
-  createOption(document.getElementById('clas'),clas[i],clas[i]);
+  createOption(document.getElementById('clas'),clas[i] + ' std',clas[i]);
+}
+for(i=0;i<year.length;i++){
+  createOption(document.getElementById('year'),year[i],year[i]);
 }
 
 function filldropdown(type,value){
-    document.getElementById('alldistrict').style.visibility="visible";
+    
     var data=new Array();
     if(type=='block'){
         data=blck;
@@ -54,7 +57,6 @@ function getdata(clas,type) {
   if(clas!=''){
     select_clas=clas;
   }
-
   document.getElementById('type').value=select_type;
   var values = $('#form1').serialize();
   
@@ -121,7 +123,7 @@ function drawChart(ctype, opt) {
     temp1=temp2=[opt[i],0,0];
     for(j=0;j<detail.length;j++){
       if(detail[j][0].trim()==flag && detail[j][1]==opt[i]){
-        //alert(detail[j]);
+        
         temp1=[detail[j][1].trim(), String(parseFloat(detail[j][3])) + '%'];
         temp2=[detail[j][1].trim(), parseFloat(detail[j][3]), parent[select_type] + ' : ' + parseFloat(detail[j][3]) + '%'];  
         if(select_type!='All District'){
@@ -148,10 +150,10 @@ function drawChart(ctype, opt) {
                       sourceColumn: 3,
                       type: "string",
                       role: "annotation" });
-}
-view.setColumns(setcolumn);	
+  }
+  view.setColumns(setcolumn);	
           var options = {
-          'title':'',
+          'title':document.getElementById('year').value,
           'allowHtml':true,
           'cssClassNames':cssClassNames,
           'legend': {position:'right'},
@@ -162,7 +164,6 @@ view.setColumns(setcolumn);
 	var change_chart=document.getElementById('change_chart');
   var table_chart=document.getElementById('table_chart_div');
   var bar_chart=document.getElementById('bar_chart_div');
-  document.getElementById('count').style.display='block';
 	if(change_chart.value=='Bar-Chart' && ctype==''){
     var chart = new google.visualization.ColumnChart(bar_chart);
     data=view;
@@ -193,12 +194,39 @@ view.setColumns(setcolumn);
   }
 
     chart.draw(data, options);
+    if(ctype=='math')
+      compare(10);
+    else
+      compare(9);
 }
 
-function popup(){
-  element=document.getElementById('popup');
-  if(element.style.display=='none')
-    element.style.display='block'
-  else
- 	   element.style.display='none'
+function clears(){
+  document.getElementById('district').selectedIndex=0;
+  document.getElementById('block').length=1;
+  document.getElementById('cluster').length=1;
+  document.getElementById('school').length=1;
+}
+
+function compare(ctype){
+  if(document.getElementById('year').value=="2011-12"){
+    if(ctype=='9')
+      document.getElementById('label_aser_value').innerHTML="65.8%";
+    else
+      document.getElementById('label_aser_value').innerHTML="40.3%";
+    document.getElementById('label_sikshana_value').innerHTML=detail[ctype][2] + '%';
+  }
+  else if(document.getElementById('year').value=="2012-13"){
+    if(ctype=='9')
+      document.getElementById('label_aser_value').innerHTML="71.5%";
+    else
+      document.getElementById('label_aser_value').innerHTML="42.5%";
+    document.getElementById('label_sikshana_value').innerHTML=detail[ctype][2] + '%';
+  }
+  else{
+    if(ctype=='9')
+      document.getElementById('label_aser_value').innerHTML="64.3%";
+    else
+      document.getElementById('label_aser_value').innerHTML="48.1%";
+    document.getElementById('label_sikshana_value').innerHTML=detail[ctype][2] + '%';
+  }
 }

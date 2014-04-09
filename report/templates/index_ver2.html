@@ -5,14 +5,13 @@
 <script src="{{ STATIC_URL}}js/jquery1.10.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.js"></script>
 <script>
-for(row in $.browser){
+/*for(row in $.browser){
     browser=row;
-    browser=browser.trim();
     break;
 }
-if(browser!='mozilla' && browser!='chrome')
+if(browser!='mozilla' || browser!='chrome')
 	browser='mozilla';
-document.write('<link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/browser_'+browser+'.css">');
+document.write('<link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/browser_'+browser+'.css">');*/
 </script>
 <link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/app.css">
 </head>
@@ -24,8 +23,8 @@ document.write('<link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/
 		<a href="/about">About Us</a>
 		<h2>Sikshana</h2><br>
 		<h5>Quality Education for Every Child</h5>	
-		<div class="form-control" id='topframe' name='topframe' style="align:center;">	
-		    <select id='district' name='district' onchange='filldropdown("block",this.value); getdata("","district");'>
+		<div class="form-control" id='topframe' name='topframe' style="align:center;">		
+			<select id='district' name='district' onchange='filldropdown("block",this.value); getdata("","district");'>
 			<option>District</option>
 			</select>&nbsp;
 			<select id='block' name='block' onchange='filldropdown("cluster",this.value); getdata("","block");'>
@@ -34,34 +33,50 @@ document.write('<link rel="stylesheet" type="text/css" href="{{ STATIC_URL}}css/
 			<select id='cluster' name='cluster' onchange='filldropdown("school",this.value); getdata("","cluster");'>
 			<option>Cluster</option>
 			</select>&nbsp;
-			<select style="width:180px;" id='school' name='school' onchange='getdata("","school");'>
+			<select style="width:140px;" id='school' name='school' onchange='getdata("","school");'>
 			<option>School</option>
 			</select>&nbsp;
 			<br><br>	
 		</div>
 	</div>	
-	    <input type="image" src="{{ STATIC_URL }}css/1391795212_229119.ico" alt="button" id="change_chart" name="change_bar_chart" onclick="javascript:drawChart('',def); return false;" style="height:30px; width:30px; margin-left:1203px; margin-top:-20px;" title="Change View" value="Table-Chart">
+	    <input type="image" src="{{ STATIC_URL }}css/1391795212_229119.ico" alt="button" id="change_chart" name="change_bar_chart" onclick="javascript:drawChart('',def); return false;" style="height:30px; width:30px; margin-left:1150px; margin-top:-20px;" title="Change View" value="Table-Chart">
         
 	    <!--<input type="image" src="{{ STATIC_URL }}css/filter.jpg" alt="button" value='filter' onclick="show_filter(); return false;" style="height:30px; width:35px; margin-left:1200px; margin-top:-30px;" title="Filter">
         -->
-        
-        <label id="label_overall">Overall :</label>
-        <label id="label_aser">Aser -</label><label id="label_aser_value"></label>
-  		<label id="label_sikshana">Sikshana -</label><label id="label_sikshana_value"></label>
+		<div class="filter" id="count">
+			    <label id="label_year" >Year </label>
+	            <select id='year' name='year' onchange="getdata('','');"></select>
 
-        <div class="button_div" id="button_div">
-        <input id="math_button" type='button' onclick='drawChart("math",math)' value='Math'>
+				<hr style="border: 1px solid #ADD8E6; width: 237px; margin-left:5px; margin-right:5px; margin-top:65px; margin-bottom:-60px;">
+
+				<hr style="border: 1px solid #ADD8E6; width: 237px; margin-left:5px; margin-right:5px; margin-top:136px; margin-bottom:-90px;">
+
+                <label id="label_clas" >Class </label>
+				<select id='clas' name='clas' onchange="getdata(this.value,'');"></select>
+
+			    <label id="label_subject" >Subject </label>
+
+                <input id="math_button" type='button' onclick='drawChart("math",math)' value='Math'>
         		
-       	<input id="kannada_button" type='button' onclick='drawChart("kannada",kannada)' value='Kannada'>
+        		<input id="kannada_button" type='button' onclick='drawChart("kannada",kannada)' value='Kannada'>
+                
+                <hr style="border: 1px solid #ADD8E6; width: 237px; margin-left:5px; margin-right:5px; margin-top:5px;"> 
 
-       	<input id="alldistrict"  id='alldistrict' type='button' onclick='javascript:getdata("","All District"); clears();' value='All District' >
+        		<label id="label_reset" >Reset </label>
+        	     
+        		<input id="alldistrict"  id='alldistrict' type='button' onclick='javascript:getdata("","All District"); clears();' value='All District' >
 
-        <select id='clas' name='clas' onchange="getdata(this.value,'');"></select>
+        		<hr style="border: 1px solid #ADD8E6; width: 237px; margin-left:5px; margin-right:5px; margin-top:3px;">
 
-        <select id='year' name='year' onchange="getdata('','');"></select>	
-		</div>
+        		<label id="label_overall">Overall :</label>
+        		<label id="label_aser">Aser </label>
+        		<label id="label_sikshana">Sikshana </label>
+        		<label id="label_aser_value"></label>
+        		<label id="label_sikshana_value"></label>
+
+		</div>	
 		
-		<div class="bar_chart" id="bar_chart_div" style=" display:none; width: 1280px; height: 450px;"></div>	
+		<div class="bar_chart" id="bar_chart_div" style=" display:none; width: 1200px; height: 450px;"></div>	
 		<div class="table_chart" id="table_chart_div" style=" display:none; width: 800px; height: 350px;"></div>
 		<p class="para">*2011-12: Students were tested only at minimum reading level, minimum and average maths level  &nbsp&nbsp&nbsp&nbsp&nbsp *2012-13: Students were tested at these level including average reading level &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  #overall: Represents students who acquired <b>atleast</b> basic ASER skills</p>
 	<div class="footer">
